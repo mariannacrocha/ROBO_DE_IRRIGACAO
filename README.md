@@ -25,10 +25,3 @@ irrigação pode ser repetida em um mesmo canteiro).
 O resultado que deve ser mostrado no final é uma STRING contendo os movimentos que
 devem ser realizados e a ação de irrigação (I) pelo robô para chegar no último canteiro
 indicado pelo usuário.
-
-Observações:
-A lógica para se percorrer o caminho é livre não necessariamente a utilizada neste exemplo, o
-importante é o resultado final - o robô não utiliza gasolina, nem energia, portanto a distância
-percorrida não é relevante.
-
-
